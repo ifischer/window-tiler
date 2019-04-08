@@ -1,0 +1,7 @@
+*.pyc
+**/.idea/*
+dist
+*.egg-info
+.DS_Store
+.venv
+*.swp
